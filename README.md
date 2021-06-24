@@ -1,4 +1,4 @@
-## Tracker NodeJS Exceptions in Docker
+## Track NodeJS Exceptions in Docker
 
 This project demonstrates how to track exceptions in a NodeJS application running inside a docker container 
 
