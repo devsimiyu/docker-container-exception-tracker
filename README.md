@@ -10,5 +10,6 @@ This project demonstrates how to track exceptions in a NodeJS application runnin
 The application needs an environment (.env) file containing the following variables:
 - `SENDGRID_API_KEY`: Your sendgrid API key.
 - `MAIL_FROM`: Your authenticated sender address on Sendgrid.
-- `MAIL_TO`: Your email address that will receive error alerts.
+- `MAIL_TO`: Your email address that will receive error alerts.  
+  
 You can run the application using this commands - `npm run start`.
